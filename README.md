@@ -15,7 +15,7 @@ This repository contains **Dockerfile** of [Node.js](http://nodejs.org/) for [Do
 
 2. Download from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull debian:jessie`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="xiechaoyi/node" github.com/xiechaoyi/node`)
+   (alternatively, you can build an image from Dockerfile: `docker build -t="wlnserver/base" github.com/wlnserver/base-0.1.0`)
 
 
 ### Usage
